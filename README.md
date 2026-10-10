@@ -5,8 +5,9 @@ Penetration testing walkthroughs from my OSCP preparation — TryHackMe, Hack Th
 🇹🇷 Türkçe açıklama aşağıda.
 
 Machines
-Machine	Platform	Chain	Writeup
-Basic Pentesting	TryHackMe	SMB → SSH → sudo	EN · TR
+Machine	Platform	Chain	            Writeup
+Basic Pentesting	TryHackMe	    SMB → SSH → sudo	           EN · TR
+Vulnversity             TryHackme           fileupload -> execution suıd   EN · TR  
 About
 
 Final-year Software Engineering student preparing for the OSCP certification. These writeups track my methodology as it develops — credentials and flags are redacted in line with platform policy.
