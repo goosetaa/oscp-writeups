@@ -6,14 +6,14 @@ Penetration testing walkthroughs from my OSCP preparation — TryHackMe, Hack Th
 
 ## Machines
 
-| Machine          | Platform  | Chain                                  | Writeup |
-|------------------|-----------|----------------------------------------|---------|
-| Basic Pentesting | TryHackMe | SMB → SSH → sudo                       | [EN](basic-pentesting/README.md) · [TR](basic-pentesting/README.tr.md) |
-| Vulnversity      | TryHackMe | File upload → SUID exec                | [EN](Vulnversity/README.md)      · [TR](Vulnversity/README.tr.md)      |
-| Bounty Hacker    | TryHackMe | FTP → SSH → sudo tar                   | [EN](Bounty-Hacker/README.md)    · [TR](Bounty-Hacker/README.tr.md)    |
-| tomghost         | TryHackMe | Easy | Ghostcat → PGP crack → sudo zip | [EN](tomghost/README.md)         · [TR](tomghost/README.tr.md)         |
-|Anonymous         | TryHackme | FTP write → root cron → SUID env       | [EN](Anonymous/Readme.md)        · [TR](Anonymous/Readme.tr.md)        |
-
+| Machine          | Platform  | Chain                                                           | Writeup |
+|------------------|-----------|-----------------------------------------------------------------|---------|
+| Basic Pentesting | TryHackMe | SMB → SSH → sudo                                                | [EN](basic-pentesting/README.md) · [TR](basic-pentesting/README.tr.md) |
+| Vulnversity      | TryHackMe | File upload → SUID exec                                         | [EN](Vulnversity/README.md)      · [TR](Vulnversity/README.tr.md)      |
+| Bounty Hacker    | TryHackMe | FTP → SSH → sudo tar                                            | [EN](Bounty-Hacker/README.md)    · [TR](Bounty-Hacker/README.tr.md)    |
+| tomghost         | TryHackMe | Easy | Ghostcat → PGP crack → sudo zip                          | [EN](tomghost/README.md)         · [TR](tomghost/README.tr.md)         |
+|Anonymous         | TryHackme | FTP write → root cron → SUID env                                | [EN](Anonymous/Readme.md)        · [TR](Anonymous/Readme.tr.md)        |
+| Mr Robot         | TryHackme | WordPress creds → PHP reverse shell (daemon) → SUID nmap → root | [EN](Mr-Robot/Readme.md)         · [TR](Mr-robot/Readme.tr.md)         |
 
 About
 
